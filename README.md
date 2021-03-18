@@ -9,3 +9,5 @@ pip3 install -r requirements.txt
 ```
 python3 transcribe.py --src_ch <chinese_text file> [--src_en <english_translate file>]
 ```
+
+### Tip
